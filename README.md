@@ -2,4 +2,4 @@
 My first coding assignment from Semester 1 2021\
 \
 Use:
-python3 pizzaz.py [--show <timenow> | --book | --group]
+python3 pizzaz.py [--show timenow | --book | --group]
