@@ -1,4 +1,4 @@
-# INFO1110
+# INFO1110 Assignment 1
 My first coding assignment from Semester 1 2021\
 \
 Use:
